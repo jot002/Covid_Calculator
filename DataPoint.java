@@ -1,14 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// Title:              DataPoint
-// Files:              None
-// Quarter:            CSE 8B Spring 2021
-//
-// Author:             Jonathan Tran
-// Email:              jot002@ucsd.edu
-// Instructor's Name:  Professor Allos
-//
-///////////////////////////////////////////////////////////////////////////////
-
 /**
 * Creates a DataPoint that takes in the 4 parameters that include information
 * on when, where, the total cases, and cases of covid by race.
